@@ -1,0 +1,9 @@
+C:\Users\ultra\source\repos\nKATMANLIMIMARUYGULAMASI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ultra\source\repos\nKATMANLIMIMARUYGULAMASI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ultra\source\repos\nKATMANLIMIMARUYGULAMASI\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\ultra\source\repos\nKATMANLIMIMARUYGULAMASI\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ultra\source\repos\nKATMANLIMIMARUYGULAMASI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ultra\source\repos\nKATMANLIMIMARUYGULAMASI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ultra\source\repos\nKATMANLIMIMARUYGULAMASI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ultra\source\repos\nKATMANLIMIMARUYGULAMASI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ultra\source\repos\nKATMANLIMIMARUYGULAMASI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
